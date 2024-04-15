@@ -9,7 +9,7 @@ import java.util.Date;
 public class DateEx {
 	
 	public static void main(String[] args) {
-		
+		System.out.println(LocalDateTime.now().toString().replace(":", "").replace("-","").replace(".",""));
 		Date date=new Date();
 		System.out.println(date);
 		SimpleDateFormat sdf=new SimpleDateFormat("yyyy:MM:dd");
