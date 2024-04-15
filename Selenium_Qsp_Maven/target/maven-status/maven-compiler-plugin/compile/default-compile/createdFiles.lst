@@ -1,10 +1,10 @@
-Pom\HomePage.class
-Generic\PropertyFile.class
 Pom\AddressFormPage.class
-Generic\WebDriverUtility.class
 Pom\MyProfilePage.class
-Pom\WelcomePage.class
-Generic\BaseClass.class
 Pom\LoginPage.class
 Pom\MyAddressPage.class
+Pom\HomePage.class
+Generic\PropertyFile.class
+Generic\WebDriverUtility.class
+Pom\WelcomePage.class
+Generic\BaseClass.class
 Generic\ExcelData.class

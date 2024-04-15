@@ -1,5 +1,4 @@
 TestScripts\Working_With_addAddress_Test.class
 Selenium\Json.class
-Selenium\CMD_Parameter_test.class
 Selenium\ExtentReportsEx.class
 TestScripts\DeleteAddress_Test.class

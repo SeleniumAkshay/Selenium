@@ -8,14 +8,27 @@
           <include name="am"/>
           <include name="bm"/>
           <include name="addAddress"/>
-          <include name="ac"/>
           <include name="bt"/>
           <include name="as"/>
-          <include name="bc"/>
+          <include name="ac"/>
           <include name="bs"/>
+          <include name="bc"/>
           <include name="at"/>
         </methods>
       </class> <!-- TestScripts.Working_With_addAddress_Test -->
+      <class name="TestScripts.DeleteAddress_Test">
+        <methods>
+          <include name="am"/>
+          <include name="bm"/>
+          <include name="delete"/>
+          <include name="bt"/>
+          <include name="as"/>
+          <include name="ac"/>
+          <include name="bs"/>
+          <include name="bc"/>
+          <include name="at"/>
+        </methods>
+      </class> <!-- TestScripts.DeleteAddress_Test -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
